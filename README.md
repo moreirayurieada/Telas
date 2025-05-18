@@ -1,3 +1,9 @@
+
+Este aplicativo foi desenvolvido como parte das avaliações do 5º período na disciplina de Computação para Dispositivos Móveis, lecionada pelo professor José Anchieta Junior.
+
+
+
+
 ## Dependencias 
 npm install
 npx expô install 
